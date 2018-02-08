@@ -23,6 +23,9 @@ return array(
             'AppPhotoHeader' => 0,
             'jcCarousel' => 0,
         ],
+        'foo' => [
+            'bar', 'baz'
+        ],
 
 
         'session' => [
