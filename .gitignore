@@ -4,3 +4,5 @@ local.php
 *.local.ini
 *.add
 *.back.*
+z.*
+zz.*
