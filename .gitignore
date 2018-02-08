@@ -3,3 +3,4 @@ local.php
 *.local.*
 *.local.ini
 *.add
+*.back.*
